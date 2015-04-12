@@ -1,0 +1,9 @@
+[submodule "apps/api"]
+	path = apps/api
+	url = git@github.com:rex/api.prex.io.git
+[submodule "apps/webhooks"]
+	path = apps/webhooks
+	url = git@github.com:rex/webhooks.prex.io.git
+[submodule "apps/site"]
+	path = apps/site
+	url = git@github.com:rex/rex.github.io.git
